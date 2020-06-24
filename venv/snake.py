@@ -10,4 +10,6 @@ while True:
         if event.type == QUIT:
             pygame.quit()
 
-pygame.display.update() 
+#COMENTARIO NOVO
+
+pygame.display.update()
