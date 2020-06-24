@@ -10,6 +10,6 @@ while True:
         if event.type == QUIT:
             pygame.quit()
 
-#COMENTARIO NOVO
+#COMENTARIO NOVO -- WARLEY
 
 pygame.display.update()
